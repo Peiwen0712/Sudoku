@@ -14,4 +14,4 @@ DELAHAYE, J., 2006. The Science Behind Sudoku. [online] Cs.virginia.edu. Availab
 
 
 
-<img width="322" alt="image" src="https://user-images.githubusercontent.com/90221867/177306405-27097d8d-3420-42da-b032-f21b25379b6b.png">
+<img width="785" alt="solve" src="https://user-images.githubusercontent.com/90221867/177306593-1d4872ca-e06f-4273-82a9-3ff73f0b6e2b.png">
